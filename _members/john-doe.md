@@ -1,8 +1,7 @@
 ---
-name: John Doe
+name: you?
 image: images/photo.jpg
-role: phd
-group: alum
+role: intern, master or phd
 links:
   github: john-doe
 ---
