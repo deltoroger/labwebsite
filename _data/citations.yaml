@@ -27,6 +27,7 @@
   publisher: Current Opinion in Plant Biology
   date: '2025-10-01'
   link: https://doi.org/hcb9v3
+  image: images/papers/10_copb.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.05.28.656625
@@ -40,6 +41,7 @@
   publisher: openRxiv
   date: '2025-06-01'
   link: https://doi.org/hcb9v4
+  image: images/papers/9_biorxiv.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1242/dev.204449
@@ -55,6 +57,7 @@
   publisher: Development
   date: '2025-04-01'
   link: https://doi.org/hcb9v5
+  image: images/papers/8_dev.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/nar/gkae572
@@ -71,6 +74,7 @@
   publisher: Nucleic Acids Research
   date: '2024-07-05'
   link: https://doi.org/gt3wh8
+  image: images/papers/7_nar.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rstb.2020.0118
@@ -83,6 +87,7 @@
   publisher: Philosophical Transactions of the Royal Society B
   date: '2021-04-19'
   link: https://doi.org/gmphtq
+  image: images/papers/6_ptors.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00497-018-00356-3
@@ -93,6 +98,7 @@
   publisher: Plant Reproduction
   date: '2018-12-26'
   link: https://doi.org/gjcrq8
+  image: images/papers/5_gb.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.devcel.2018.07.014
@@ -107,6 +113,7 @@
   publisher: Developmental Cell
   date: '2018-09-01'
   link: https://doi.org/gfcf6g
+  image: images/papers/4_pr.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pbi.2015.12.007
@@ -118,6 +125,7 @@
   publisher: Current Opinion in Plant Biology
   date: '2016-02-01'
   link: https://doi.org/f8bw9n
+  image: images/papers/3_devcell.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature13620
@@ -130,6 +138,7 @@
   publisher: Nature
   date: '2014-09-07'
   link: https://doi.org/f6m3bz
+  image: images/papers/2_copb.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13059-019-1652-0
