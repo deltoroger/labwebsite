@@ -1,6 +1,6 @@
 ---
 name: you?
-image: images/team/You_web.jpg
+image: images/team/You_web2.jpg
 role: intern, master or phd
 links:
   github: link
