@@ -1,17 +1,11 @@
 ---
 name: Gerardo del Toro
-image: images/photo.jpg
+image: images/team/Gerardo_web.jpg
 role: principal-investigator
 affiliation: IBt-UNAM
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.ibt.unam.mx/agrupacion/direccin-22/departamento-de-biologa-molecular-de-plantas-51/grupo-del-dr-gerardo-del-toro-de-len-211
+  orcid: 0000-0003-2079-1746
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+My research focuses on deciphering the links between epigenetics, reproduction and speciation. In particular I am interested in understanding the mechanistic basis of imprinting and its impact on the establishment of post-zygotic reproductive barriers in the endosperm.
