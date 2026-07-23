@@ -90,6 +90,21 @@
   image: images/papers/6_ptors.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1186/s13059-019-1652-0
+  title: Epigenetic signatures associated with imprinted paternally expressed genes
+    in the Arabidopsis endosperm
+  authors:
+  - Jordi Moreno-Romero
+  - "Gerardo Del Toro-De Le\xF3n"
+  - Vikash Kumar Yadav
+  - "Juan Santos-Gonz\xE1lez"
+  - "Claudia K\xF6hler"
+  publisher: Genome Biology
+  date: '2019-02-21'
+  link: https://doi.org/gjcrpt
+  image: images/papers/5_gb.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00497-018-00356-3
   title: Endosperm-specific transcriptome analysis by applying the INTACT system
   authors:
@@ -98,7 +113,7 @@
   publisher: Plant Reproduction
   date: '2018-12-26'
   link: https://doi.org/gjcrq8
-  image: images/papers/5_gb.png
+  image: images/papers/4_pr.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.devcel.2018.07.014
@@ -113,7 +128,7 @@
   publisher: Developmental Cell
   date: '2018-09-01'
   link: https://doi.org/gfcf6g
-  image: images/papers/4_pr.png
+  image: images/papers/3_devcell.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pbi.2015.12.007
@@ -125,7 +140,7 @@
   publisher: Current Opinion in Plant Biology
   date: '2016-02-01'
   link: https://doi.org/f8bw9n
-  image: images/papers/3_devcell.png
+  image: images/papers/2_copb.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature13620
@@ -138,21 +153,6 @@
   publisher: Nature
   date: '2014-09-07'
   link: https://doi.org/f6m3bz
-  image: images/papers/2_copb.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13059-019-1652-0
-  title: Epigenetic signatures associated with imprinted paternally expressed genes
-    in the Arabidopsis endosperm
-  authors:
-  - Jordi Moreno-Romero
-  - "Gerardo Del Toro-De Le\xF3n"
-  - Vikash Kumar Yadav
-  - "Juan Santos-Gonz\xE1lez"
-  - "Claudia K\xF6hler"
-  publisher: Genome Biology
-  date: '2019-02-21'
-  link: https://doi.org/gjcrpt
   image: images/papers/1_nature.png
   plugin: sources.py
   file: sources.yaml
