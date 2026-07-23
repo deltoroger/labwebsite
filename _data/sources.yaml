@@ -1,13 +1,22 @@
 - id: doi:10.1093/plcell/koag182
   image: images/papers/11_pc.jpeg
 - id: doi:10.1016/j.pbi.2025.102764
+  image: images/papers/10_copb.gif
 - id: doi:10.1101/2025.05.28.656625
+  image: images/papers/9_biorxiv.png
 - id: doi:10.1242/dev.204449
+  image: images/papers/8_dev.png
 - id: doi:10.1093/nar/gkae572
+  image: images/papers/7_nar.jpeg
 - id: doi:10.1098/rstb.2020.0118
+  image: images/papers/6_ptors.png
 - id: doi:10.1007/s00497-018-00356-3
+  image: images/papers/5_gb.png
 - id: doi:10.1016/j.devcel.2018.07.014
+  image: images/papers/4_pr.png
 - id: doi:10.1016/j.pbi.2015.12.007
+  image: images/papers/3_devcell.png
 - id: doi:10.1038/nature13620
+  image: images/papers/2_copb.png
 - id: doi:10.1186/s13059-019-1652-0
   image: images/papers/1_nature.png
