@@ -3,7 +3,7 @@
 
 # Laboratorio de Plasticidad Genética y Genómica del Desarrollo
 
-We are a research team based at the <a href="https://www.ibt.unam.mx/" target="_blank" rel="noopener noreferrer">Institute of Biotechnology (IBt)</a>, <a href="https://www.unam.mx/" target="_blank" rel="noopener noreferrer">National Autonomous University of Mexico (UNAM)</a>. We combine molecular biology, genetics, genomics, and advanced microscopy to investigate the genetic and epigenetic mechanisms governing plant development, with a particular focus on reproduction and seed development in flowering plants.
+We are a research team investigating the molecular mechanisms underlying plant reproduction at the <a href="https://www.ibt.unam.mx/" target="_blank" rel="noopener noreferrer">Institute of Biotechnology (IBt)</a>, <a href="https://www.unam.mx/" target="_blank" rel="noopener noreferrer">National Autonomous University of Mexico (UNAM)</a>. We primarily use Arabidopsis thaliana as a model system and are expanding our research to maize and tomato to investigate conserved and divergent mechanisms of gene regulation and plant development.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ We are a research team based at the <a href="https://www.ibt.unam.mx/" target="_
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We combine molecular biology, genetics, genomics, and advanced microscopy to investigate the genetic and epigenetic mechanisms governing plant development, with a particular focus on reproduction and seed development in flowering plants.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/background.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We share our research through publications in peer-reviewed scientific journals and support the principles of the San Francisco Declaration on Research Assessment (DORA), recognizing the value and quality of research beyond journal-based metrics. Explore our publications to learn more about our work.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/papers/12_Publications.png"
   link="publications"
   title="Our publications"
   flip=true
