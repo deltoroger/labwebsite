@@ -19,7 +19,7 @@ How does RNA metabolism shape plant development? We investigate how RNA processi
 
 {%
   include feature.html
-  image="images/research/RNAprocessing3.png"
+  image="images/research/RNAprocessing.png"
   title="RNA Processing & Development"
   text=text
 %}
