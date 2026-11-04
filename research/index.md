@@ -28,7 +28,7 @@ How does RNA metabolism shape plant development? We investigate how RNA processi
 
 {% capture text %}
 
-How do genetically distinct tissues communicate to coordinate seed formation? We combine molecular biology, genetics, and advanced microscopy to investigate the molecular mechanisms underlying communication between the embryo and the maternal seed coat, and how these interactions contribute to successful seed development.
+How do genetically distinct tissues communicate to coordinate seed formation? We combine molecular biology, genetics, and advanced microscopy to investigate the molecular mechanisms underlying communication between the embryo and the maternal seed coat, and how these interactions contribute to successful seed development. 
 
 {% endcapture %}
 
