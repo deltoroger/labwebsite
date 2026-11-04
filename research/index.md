@@ -11,7 +11,8 @@ Our research integrates genetics, epigenetics, and functional genomics to uncove
 
 {% include section.html %}
 
-## RNA Processing & Development
+{% capture text %}
+
 How does RNA metabolism shape plant development? We investigate how RNA processing and degradation regulate gene expression and influence developmental decisions, with a particular focus on plant reproduction and seed development.
 
 {% endcapture %}
@@ -25,7 +26,8 @@ How does RNA metabolism shape plant development? We investigate how RNA processi
 
 {% include section.html %}
 
-## Molecular Communication in Seed Development
+{% capture text %}
+
 How do genetically distinct tissues communicate to coordinate seed formation? We combine molecular biology, genetics, and advanced microscopy to investigate the molecular mechanisms underlying communication between the embryo and the maternal seed coat, and how these interactions contribute to successful seed development.
 
 {% endcapture %}
@@ -34,19 +36,21 @@ How do genetically distinct tissues communicate to coordinate seed formation? We
   include feature.html
   image="images/research/SeedComm.png"
   title="Molecular Communication in Seed Development"
+  flip=true
   text=text
 %}
 
 {% include section.html %}
 
-## Developmental Responses to Environmental Stress
+{% capture text %}
+
 Climate change poses increasing challenges to plant development and reproductive success. We investigate how environmental stresses affect plants at the molecular and developmental levels, with a particular interest in understanding how these conditions influence seed formation.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/rna-processing.jpg"
-  title="RNA Processing & Development"
+  image="images/research/Stress.png"
+  title="Developmental Responses to Environmental Stress"
   text=text
 %}
