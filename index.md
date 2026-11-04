@@ -3,7 +3,7 @@
 
 # Laboratorio de Plasticidad Genética y Genómica del Desarrollo
 
-We are a research team investigating the molecular mechanisms underlying plant reproduction at the <a href="https://www.ibt.unam.mx/" target="_blank" rel="noopener noreferrer">Institute of Biotechnology (IBt)</a>, <a href="https://www.unam.mx/" target="_blank" rel="noopener noreferrer">National Autonomous University of Mexico (UNAM)</a>. We primarily use Arabidopsis thaliana as a model system and are expanding our research to maize and tomato to investigate conserved and divergent mechanisms of gene regulation and plant development.
+We are a research team investigating the molecular mechanisms underlying plant reproduction at the <a href="https://www.ibt.unam.mx/" target="_blank" rel="noopener noreferrer">Institute of Biotechnology (IBt)</a>, <a href="https://www.unam.mx/" target="_blank" rel="noopener noreferrer">National Autonomous University of Mexico (UNAM)</a>. We primarily use _Arabidopsis thaliana_ as a model system and are expanding our research to maize and tomato to investigate conserved and divergent mechanisms of gene regulation and plant development.
 
 {% include section.html %}
 
@@ -59,7 +59,7 @@ We share our research through publications in peer-reviewed scientific journals 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We welcome undergraduate and graduate students, as well as postdoctoral researchers, to join our team. We value diversity, collaboration, and open discussion, and strive to create a supportive environment where everyone feels respected and encouraged to grow. 
 
 {%
   include button.html
