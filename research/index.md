@@ -19,7 +19,7 @@ How does RNA metabolism shape plant development? We investigate how RNA processi
 
 {%
   include feature.html
-  image="images/research/RNAprocessing.png"
+  image="images/research/RNAprocessing3.png"
   title="RNA Processing & Development"
   text=text
 %}
@@ -34,7 +34,7 @@ How do genetically distinct tissues communicate to coordinate seed formation? We
 
 {%
   include feature.html
-  image="images/research/SeedComm.png"
+  image="images/research/SeedComm1.png"
   title="Molecular Communication in Seed Development"
   flip=true
   text=text
