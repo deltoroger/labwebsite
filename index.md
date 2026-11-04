@@ -1,9 +1,9 @@
 ---
 ---
 
-# deltoroger's Website
+# Laboratorio de Plasticidad Genética y Genómica del Desarrollo
 
-An engaging 1-3 sentence description of your lab.
+We are a research team based at the <a href="https://www.ibt.unam.mx/" target="_blank" rel="noopener noreferrer">Institute of Biotechnology (IBt)</a>, <a href="https://www.unam.mx/" target="_blank" rel="noopener noreferrer">National Autonomous University of Mexico (UNAM)</a>. We combine molecular biology, genetics, genomics, and advanced microscopy to investigate the genetic and epigenetic mechanisms governing plant development, with a particular focus on reproduction and seed development in flowering plants.
 
 {% include section.html %}
 
