@@ -34,7 +34,7 @@ How do genetically distinct tissues communicate to coordinate seed formation? We
 
 {%
   include feature.html
-  image="images/research/SeedComm1.png"
+  image="images/research/SeedComm2.png"
   title="Molecular Communication in Seed Development"
   flip=true
   text=text
@@ -50,7 +50,7 @@ Climate change poses increasing challenges to plant development and reproductive
 
 {%
   include feature.html
-  image="images/research/Stress.png"
+  image="images/research/stress.png"
   title="Developmental Responses to Environmental Stress"
   text=text
 %}
