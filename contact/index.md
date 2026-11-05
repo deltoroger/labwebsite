@@ -27,28 +27,21 @@ We are located in Cuernavaca, _The City of Eternal Spring_, at UNAM's Morelos ca
 
 {% capture col1 %}
 
-<a href="{{ '/about-ibt/' | relative_url }}">
-  <img src="{{ '/images/contact/ibt1.jpg' | relative_url }}"
-       alt="Institute of Biotechnology, UNAM"
-       style="width:100%; border-radius:8px;">
-  <p style="text-align:center;">
-    <strong>Discover the IBt</strong>
-  </p>
+<a href="{{ '/living-in-cuernavaca/' | relative_url }}" style="display:block; text-align:center;">
+  <img src="{{ '/images/contact/ibt1.jpg' | relative_url }}" alt="Institute of Biotechnology, UNAM" style="width:100%; border-radius:8px; display:block;">
+  <strong>Discover the IBt</strong>
 </a>
 
 Learn more about the history of the Institute of Biotechnology and its research community.
 
 {% endcapture %}
 
+
 {% capture col2 %}
 
-<a href="{{ '/living-in-cuernavaca/' | relative_url }}">
-  <img src="{{ '/images/contact/ibt2.jpg' | relative_url }}"
-       alt="Cuernavaca, Morelos"
-       style="width:100%; border-radius:8px;">
-  <p style="text-align:center;">
-    <strong>Living in Cuernavaca</strong>
-  </p>
+<a href="{{ '/living-in-cuernavaca/' | relative_url }}" style="display:block; text-align:center;">
+  <img src="{{ '/images/contact/ibt2.jpg' | relative_url }}" alt="Cuernavaca, Morelos" style="width:100%; border-radius:8px; display:block;">
+  <strong>Living in Cuernavaca</strong>
 </a>
 
 Discover what makes the City of Eternal Spring a special place to live and work.
