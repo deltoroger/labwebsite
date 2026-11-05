@@ -50,7 +50,7 @@ Climate change poses increasing challenges to plant development and reproductive
 
 {%
   include feature.html
-  image="images/research/stress.png"
+  image="images/research/stress2.png"
   title="Developmental Responses to Environmental Stress"
   text=text
 %}
