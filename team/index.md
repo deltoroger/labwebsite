@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our goal is to conduct research to the highest scientific standards while contributing to the training and development of the next generation of scientists. We are committed to mentoring our students and fostering an inclusive, collaborative environment that values diversity of backgrounds, perspectives, and ideas.
 
 {% include section.html %}
 
