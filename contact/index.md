@@ -39,7 +39,7 @@ Learn more about the history of the Institute of Biotechnology and its research 
 
 [![Cuernavaca, Morelos]({{ '/images/contact/ibt2.jpg' | relative_url }})]({{ '/living-in-cuernavaca/' | relative_url }})
 
-**[Living in Cuernavaca]({{ '/living-in-cuernavaca/' | relative_url }})**
+**[Living in Cuernavaca]({{ '/about-cuerna/' | relative_url }})**
 
 Discover what makes the City of Eternal Spring a special place to live and work.
 
