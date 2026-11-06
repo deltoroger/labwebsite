@@ -15,7 +15,7 @@ We are always interested in welcoming curious and motivated researchers to our t
 
 We welcome inquiries from motivated postdoctoral researchers interested in exploring the molecular and epigenetic mechanisms underlying plant reproduction and development.
 
-Although funded positions may not always be available, we are happy to discuss research ideas and opportunities to apply for postdoctoral fellowships together.
+We mainly recruit postdocs through the [Programa de Becas Posdoctorales en la UNAM (POSDOC)]("https://dgapa.unam.mx/index.php/formacion-academica/posdoc") from DGAPA and the national program [Estancias Posdoctorales por México]("https://secihti.mx/convocatoria/becas-nacionales/becas-de-consolidacion/estancias-posdoctorales-por-mexico/convocatoria-2026-estancias-posdoctorales-por-mexico/") from SECIHTI. 
 
 {% include section.html %}
 
