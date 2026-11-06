@@ -3,7 +3,7 @@ title: About Cuernavaca
 permalink: /about-cuerna/
 ---
 
-# {% include icon.html icon="fa-solid fa-building-columns" %} About the IBt
+# {% include icon.html icon="fa-solid fa-building-columns" %} About Cuernavaca
 
 Cuernavaca is the capital of the state of Morelos, strategically located approximately 80 km south of Mexico City. Its privileged location allows residents to enjoy a peaceful, relaxed lifestyle while remaining within easy reach of one of Mexico’s most important cultural and economic centres.
 
