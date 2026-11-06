@@ -20,6 +20,6 @@ Cuernavaca is widely known as the "City of Eternal Spring," a nickname tradition
 Throughout the 20th century and into the present day, Cuernavaca has continued to attract artists, intellectuals, diplomats, and travellers. Its year-round mild climate, beautiful natural surroundings, and proximity to Mexico City have established it as a desirable residential destination and a popular weekend retreat from the hustle and bustle of the capital.
 ## Discover More
 
-Explore [things to see and do] (https://cuernavaca.gob.mx/?page_id=2819) in Cuernavaca to discover the city's rich cultural heritage.
+Explore [things to see and do](https://cuernavaca.gob.mx/?page_id=2819) in Cuernavaca to discover the city's rich cultural heritage.
 
 [← Back to Contact]({{ '/contact/' | relative_url }})
