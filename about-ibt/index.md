@@ -1,6 +1,6 @@
-
 ---
 title: About the IBt
+permalink: /about-ibt/
 ---
 
 # {% include icon.html icon="fa-solid fa-building-columns" %} About the IBt
