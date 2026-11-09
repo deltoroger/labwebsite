@@ -13,6 +13,6 @@ Our goal is to conduct research to the highest scientific standards while contri
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
