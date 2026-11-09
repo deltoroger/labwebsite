@@ -34,7 +34,7 @@ How do genetically distinct tissues communicate to coordinate seed formation? We
 
 {%
   include feature.html
-  image="images/research/SeedComm2.jpg"
+  image="images/research/SeedComm3.jpg"
   title="Molecular Communication in Seed Development"
   flip=true
   text=text
