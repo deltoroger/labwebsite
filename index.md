@@ -74,7 +74,7 @@ We welcome undergraduate and graduate students, as well as postdoctoral research
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/team.jpg"
   link="team"
   title="Our Team"
   text=text
