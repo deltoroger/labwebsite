@@ -27,7 +27,7 @@ We are located in Cuernavaca, _The City of Eternal Spring_, at UNAM's Morelos ca
 
 {% capture col1 %}
 
-[![Institute of Biotechnology]({{ '/images/contact/ibt1.jpg' | relative_url }})]({{ '/about-ibt/' | relative_url }})
+[![Institute of Biotechnology]({{ '/images/contact/ibt1_2.jpg' | relative_url }})]({{ '/about-ibt/' | relative_url }})
 
 **[Discover the IBt]({{ '/about-ibt/' | relative_url }})**
 
@@ -37,7 +37,7 @@ Learn more about the history of the Institute of Biotechnology and its research 
 
 {% capture col2 %}
 
-[![Cuernavaca, Morelos]({{ '/images/contact/ibt2.jpg' | relative_url }})]({{ '/about-cuerna/' | relative_url }})
+[![Cuernavaca, Morelos]({{ '/images/contact/ibt2_2.jpg' | relative_url }})]({{ '/about-cuerna/' | relative_url }})
 
 **[Living in Cuernavaca]({{ '/about-cuerna/' | relative_url }})**
 
