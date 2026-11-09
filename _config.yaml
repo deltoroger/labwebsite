@@ -15,11 +15,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@deltoroger.com
   orcid: 0000-0003-2079-1746
-  google-scholar: M_fLYZ4AAAAJ&hl=en
+  google-scholar: M_fLYZ4AAAAJ
   github: deltoroger
-  twitter: @gerardodeltoro.bsky.social
+  bluesky: gerardodeltoro.bsky.social
 
 ### jekyll settings
 
