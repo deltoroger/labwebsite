@@ -28,13 +28,11 @@ layout: default
   | array_filter
 %}
 
-{% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
+{% assign author_name = page.name | default: page.title %}
 
 <p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
+  <a href="{{ '/research/' | relative_url }}?search={{ author_name | url_encode }}">
+    Search for {{ author_name }}'s papers on the Research page
   </a>
 </p>
 
