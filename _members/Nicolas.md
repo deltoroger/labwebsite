@@ -1,6 +1,6 @@
 ---
 name: Nicolas Salcedo
-image: images/team/You_web2.jpg
+image: images/team/photo.jpg
 role: undergrad
 ---
 
