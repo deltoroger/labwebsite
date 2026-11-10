@@ -1,1 +1,158 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1093/plcell/koag182
+  title: Removal of seed coat H3K27me3 in Arabidopsis requires noncanonical functions
+    of brassinosteroid receptors
+  authors:
+  - Rishabh Pankaj
+  - Rita B Lima
+  - Guan-Yu Luo
+  - Sinah T Ehlert
+  - "Gerardo Del Toro-De Le\xF3n"
+  - Heinrich Bente
+  - Pascal Finger
+  - Hikaru Sato
+  - Duarte D Figueiredo
+  publisher: The Plant Cell
+  date: '2026-06-01'
+  link: https://doi.org/hcb9v2
+  image: images/papers/11_pc2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pbi.2025.102764
+  title: Rapid origin and turnover of genomic imprinting by transposable elements
+  authors:
+  - "Gerardo Del Toro-De Le\xF3n"
+  - "Claudia K\xF6hler"
+  publisher: Current Opinion in Plant Biology
+  date: '2025-10-01'
+  link: https://doi.org/hcb9v3
+  image: images/papers/10_copb2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.05.28.656625
+  title: Maternal control of RNA decay safeguards embryo development
+  authors:
+  - "Gerardo Del Toro-De Le\xF3n"
+  - Maria Sofia Trenti
+  - Varsha Vasudevan
+  - Ursula Krause
+  - "Claudia K\xF6hler"
+  publisher: openRxiv
+  date: '2025-06-01'
+  link: https://doi.org/hcb9v4
+  image: images/papers/9_biorxiv.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1242/dev.204449
+  title: A maternal transcriptome bias in early <i>Arabidopsis</i> embryogenesis
+  authors:
+  - "Jaime Alaniz-Fabi\xE1n"
+  - Daoquan Xiang
+  - "Gerardo Del Toro-De Le\xF3n"
+  - Peng Gao
+  - Cei Abreu-Goodger
+  - Raju Datla
+  - C. Stewart Gillmor
+  publisher: Development
+  date: '2025-04-01'
+  link: https://doi.org/hcb9v5
+  image: images/papers/8_dev2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkae572
+  title: Epigenetic and transcriptional consequences in the endosperm of chemically
+    induced transposon mobilization in Arabidopsis
+  authors:
+  - "Gerardo Del\_Toro-De\_Le\xF3n"
+  - "Joram van\_Boven"
+  - "Juan Santos-Gonz\xE1lez"
+  - Wen-Biao Jiao
+  - Haoran Peng
+  - Korbinian Schneeberger
+  - "Claudia K\xF6hler"
+  publisher: Nucleic Acids Research
+  date: '2024-07-05'
+  link: https://doi.org/gt3wh8
+  image: images/papers/7_nar2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rstb.2020.0118
+  title: 'Postzygotic reproductive isolation established in the endosperm: mechanisms,
+    drivers and relevance'
+  authors:
+  - "Claudia K\xF6hler"
+  - Katarzyna Dziasek
+  - "Gerardo Del Toro-De Le\xF3n"
+  publisher: Philosophical Transactions of the Royal Society B
+  date: '2021-04-19'
+  link: https://doi.org/gmphtq
+  image: images/papers/6_ptors2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-019-1652-0
+  title: Epigenetic signatures associated with imprinted paternally expressed genes
+    in the Arabidopsis endosperm
+  authors:
+  - Jordi Moreno-Romero
+  - "Gerardo Del Toro-De Le\xF3n"
+  - Vikash Kumar Yadav
+  - "Juan Santos-Gonz\xE1lez"
+  - "Claudia K\xF6hler"
+  publisher: Genome Biology
+  date: '2019-02-21'
+  link: https://doi.org/gjcrpt
+  image: images/papers/5_gb2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00497-018-00356-3
+  title: Endosperm-specific transcriptome analysis by applying the INTACT system
+  authors:
+  - "Gerardo Del Toro-De Le\xF3n"
+  - "Claudia K\xF6hler"
+  publisher: Plant Reproduction
+  date: '2018-12-26'
+  link: https://doi.org/gjcrq8
+  image: images/papers/4_pr2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.devcel.2018.07.014
+  title: Sequestration of a Transposon-Derived siRNA by a Target Mimic Imprinted Gene
+    Induces Postzygotic Reproductive Isolation in Arabidopsis
+  authors:
+  - Guifeng Wang
+  - Hua Jiang
+  - "Gerardo Del Toro de Le\xF3n"
+  - German Martinez
+  - "Claudia K\xF6hler"
+  publisher: Developmental Cell
+  date: '2018-09-01'
+  link: https://doi.org/gfcf6g
+  image: images/papers/3_devcell2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pbi.2015.12.007
+  title: Zygotic genome activation in isogenic and hybrid plant embryos
+  authors:
+  - "Gerardo Del Toro-De Le\xF3n"
+  - Daniel Lepe-Soltero
+  - C Stewart Gillmor
+  publisher: Current Opinion in Plant Biology
+  date: '2016-02-01'
+  link: https://doi.org/f8bw9n
+  image: images/papers/2_copb2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature13620
+  title: Non-equivalent contributions of maternal and paternal genomes to early plant
+    embryogenesis
+  authors:
+  - "Gerardo Del Toro-De Le\xF3n"
+  - "Marcelina Garc\xEDa-Aguilar"
+  - C. Stewart Gillmor
+  publisher: Nature
+  date: '2014-09-07'
+  link: https://doi.org/f6m3bz
+  image: images/papers/1_nature2.png
+  plugin: sources.py
+  file: sources.yaml
