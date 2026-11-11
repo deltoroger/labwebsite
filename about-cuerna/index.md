@@ -19,7 +19,7 @@ Cuernavaca is widely known as the "City of Eternal Spring," a nickname tradition
 
 Throughout the 20th century and into the present day, Cuernavaca has continued to attract artists, intellectuals, diplomats, and travellers. Its year-round mild climate, beautiful natural surroundings, and proximity to Mexico City have established it as a desirable residential destination and a popular weekend retreat from the hustle and bustle of the capital.
 
-Beyond its cultural and natural attractions, Cuernavaca is also an important center for scientific research and higher education. The city is home to UNAM's Morelos campus, which hosts several research institutes and centers specializing in genomics, physics, biotechnology, and the humanities, the [Institute of Biotechnology (IBt)]({{ '/about-ibt/' | relative_url }}), where our lab is located.
+Beyond its cultural and natural attractions, Cuernavaca is also an important center for scientific research and higher education. The city is home to UNAM's Morelos campus, which hosts several research institutes and centers specializing in metemathics, energy, genomics, physics and biotechnology, the [Institute of Biotechnology (IBt)]({{ '/about-ibt/' | relative_url }}), where our lab is located.
 
 ## Discover More
 
