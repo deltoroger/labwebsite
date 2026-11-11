@@ -18,6 +18,9 @@ In 1521, the Spanish conquistador Hernán Cortés captured Cuernavaca. Drawn to 
 Cuernavaca is widely known as the "City of Eternal Spring," a nickname traditionally associated with the German naturalist and explorer Alexander von Humboldt, who visited the region in the early 19th century and admired its remarkably pleasant climate. In 1869, Cuernavaca officially became the capital of the newly established state of Morelos.
 
 Throughout the 20th century and into the present day, Cuernavaca has continued to attract artists, intellectuals, diplomats, and travellers. Its year-round mild climate, beautiful natural surroundings, and proximity to Mexico City have established it as a desirable residential destination and a popular weekend retreat from the hustle and bustle of the capital.
+
+Beyond its cultural and natural attractions, Cuernavaca is also an important center for scientific research and higher education. The city is home to UNAM's Morelos campus, which hosts several research institutes and centers specializing in genomics, physics, biotechnology, and the humanities, the [Institute of Biotechnology (IBt)]({{ '/about-ibt/' | relative_url }}), where our lab is located.
+
 ## Discover More
 
 Explore [things to see and do](https://cuernavaca.gob.mx/?page_id=2819) in Cuernavaca to discover the city's rich cultural heritage.
