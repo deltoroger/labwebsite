@@ -1,6 +1,6 @@
 ---
 name: Gerardo del Toro
-image: images/team/Gerardo4.jpeg
+image: images/team/Gerardo4.jpg
 role: principal-investigator
 affiliation: IBt-UNAM
 links:
